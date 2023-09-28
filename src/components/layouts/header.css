@@ -1,0 +1,27 @@
+header .active {
+  color: #f00 !important;
+}
+header {
+  width: 100%;
+  background: #109be9;
+  padding: 26px 0;
+
+  position: fixed;
+  z-index: 100;
+}
+.nav-link {
+  color: #fff !important;
+
+  font-family: Mulish;
+  font-size: 16px;
+  line-height: 120%;
+  letter-spacing: 0.08px;
+}
+footer {
+  color: #000 !important;
+
+  font-family: Mulish;
+  font-size: 16px;
+  line-height: 120%;
+  letter-spacing: 0.08px;
+}
